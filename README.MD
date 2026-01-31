@@ -67,27 +67,16 @@ local function StonedMonkey()
     end
     CleanupEffects()
 end
--- Classic drunk filter
-local function AlcoholEffect()
-    if Config.Debug == true then
-        DebugPrint('Setting evidence status: heavyalcohol')
-    end
-    TriggerEvent('evidence:client:SetStatus', 'heavyalcohol', 200)
-    StartScreenEffect("DrugsDrivingIn", 3.0, 0)
-    SetTimecycleModifier("Drunk")
-    SetRunSprintMultiplierForPlayer(PlayerId(), 0.45)
-    local duration = 55
-    local timer = 0
-    while timer < duration do
-        Wait(1100)
-        timer = timer + 1
-        ShakeGameplayCam("ROAD_VIBRATION_SHAKE", 0.5)
-        if math.random(1, 100) < 30 then
-            ShakeGameplayCam("DRUNK_SHAKE", 0.8)
-        end
-    end
-    CleanupEffects()
-end
 ```
-... And More, Easy to add your own easy to modify
-    Just edit and restart the resource, then use the drug or item to test.
+... And More, Easy to add your own easy to modify. Just edit and restart the resource, then use the drug or item to test.
+
+![Video](https://youtu.be/QVQX1PRcEMA)
+
+This is also availible on my tebex: 
+[https://core-forge.tebex.io/](https://core-forge.tebex.io/)
+
+Github profile:
+[Github Profile](https://github.com/Core-Forge-5)
+
+Github repo:
+[Github](https://github.com/Core-Forge-5/core-consumables)

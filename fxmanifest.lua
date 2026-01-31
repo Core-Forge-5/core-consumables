@@ -1,7 +1,7 @@
 name "Core-Consumables"
 author "CoreForge"
 version "1.0.0"
-description "Core Consumables — Add drugs, food, drinks with effects in minutes."
+description "Core Consumables — Add drugs, food, drinks with effects in minutes. https://github.com/Core-Forge-5/core-consumables"
 fx_version "cerulean"
 game "gta5"
 
