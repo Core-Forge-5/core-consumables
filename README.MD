@@ -70,7 +70,18 @@ end
 ```
 ... And More, Easy to add your own easy to modify. Just edit and restart the resource, then use the drug or item to test.
 
-![Video](https://youtu.be/QVQX1PRcEMA)
+<div align="center">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://youtu.be/QVQX1PRcEMA" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 This is also availible on my tebex: 
 [https://core-forge.tebex.io/](https://core-forge.tebex.io/)
