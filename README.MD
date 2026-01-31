@@ -69,7 +69,7 @@ local function StonedMonkey()
 end
 ```
 ... And More, Easy to add your own easy to modify. Just edit and restart the resource, then use the drug or item to test.
-
+```html
 <div align="center">
   <iframe 
     width="560" 
@@ -82,6 +82,7 @@ end
     allowfullscreen>
   </iframe>
 </div>
+```
 
 This is also availible on my tebex: 
 [https://core-forge.tebex.io/](https://core-forge.tebex.io/)
