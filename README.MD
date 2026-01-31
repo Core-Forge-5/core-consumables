@@ -73,7 +73,7 @@ end
 [![Core-Consumables Demo](https://img.youtube.com/vi/QVQX1PRcEMA/0.jpg)](https://www.youtube.com/watch?v=QVQX1PRcEMA)
 
 This is also availible on my tebex: 
-[https://core-forge.tebex.io/](https://core-forge.tebex.io/package/7255680)
+[https://core-forge.tebex.io/](https://core-forge.tebex.io/package/7255680/)
 
 Github profile:
 [Github Profile](https://github.com/Core-Forge-5)
