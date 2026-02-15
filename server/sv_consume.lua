@@ -16,7 +16,7 @@ end)
 
 RegisterNetEvent('core-consumables:server:updateStatus', function(stat, value)
     local src = source
-    local Player = exports.qbx_core:GetPlayer(src)
+    local Player = Framework.GetPlayer(src)
     if not Player then return end
 
     local metadata = Player.PlayerData.metadata

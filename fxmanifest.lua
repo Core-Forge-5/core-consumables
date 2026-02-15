@@ -8,6 +8,7 @@ game "gta5"
 shared_scripts {
     '@ox_lib/init.lua',
     'config/consume.lua',
+    'bridge/bridge.lua'
 }
 
 client_scripts {
