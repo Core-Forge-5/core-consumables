@@ -1,0 +1,20 @@
+﻿# Compiled Lua
+*.luac
+luac.out
+
+# Rocks / deps
+.luarocks/
+lua_modules/
+*.rock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / misc
+*.log
+*.build
+*.bak
+# Source hidden in public repo
+*.lua
+*.ps1
